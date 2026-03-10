@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+crimewatch.db
+.env
+static/uploads/*
+!static/uploads/.gitkeep
